@@ -36,7 +36,7 @@ sudo apt install
 
 ## Authors
 
-- **Pablo Matheus Jaco de Lima Araujo** - @pablo-matheus [GitHub](#) | [LinkedIn](#)
+- **Pablo Matheus Jaco de Lima Araujo** - [GitHub](#) | [LinkedIn](#)
 - **Jakeline Mercês da Silva** - [GitHub](#) | [LinkedIn](#)
 - **Pedro Ernesto da Silva Souza** - [GitHub](#) | [LinkedIn](#)
 - **Mario Felipe Bellomi** - [GitHub](#) | [LinkedIn](#)
@@ -45,4 +45,4 @@ sudo apt install
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/pablo-matheus/4jobs/raw/master/icon.png) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/pablo-matheus/4jobs/raw/master/license.md) file for details
