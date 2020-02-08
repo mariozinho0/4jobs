@@ -2,6 +2,10 @@
 
 [logo]: https://github.com/pablo-matheus/4jobs/raw/master/icon.png "4Jobs Icon"
 
+## Versioning
+
+We use [SemVer]() for versioning. For the versions available, see the [tags on this repository]().
+
 
 ## Table of Contents
 
@@ -12,6 +16,7 @@
 ## Technologies
 
 - Java 8
+- Maven
 - Apache Tomcat
 - MySQL
 
@@ -24,16 +29,19 @@ sudo apt install
 
 ## Test
 
-
+```
+./mvnw clean package
+```
 
 
 ## Authors
 
-- **Pablo Matheus Jaco de Lima Araujo** - @pablo-matheus [GitHub]() | [LinkedIn]()
-- **Jakeline Mercês da Silva** - [GitHub]() | [LinkedIn]()
-- **Pedro Ernesto da Silva Souza** - [GitHub]() | [LinkedIn]()
-- **Mario Felipe Bellomi** - [GitHub]() | [LinkedIn]()
-- **Gustavo Henrique Dias Preto** - [GitHub]() | [LinkedIn]()
+- **Pablo Matheus Jaco de Lima Araujo** - @pablo-matheus [GitHub](#) | [LinkedIn](#)
+- **Jakeline Mercês da Silva** - [GitHub](#) | [LinkedIn](#)
+- **Pedro Ernesto da Silva Souza** - [GitHub](#) | [LinkedIn](#)
+- **Mario Felipe Bellomi** - [GitHub](#) | [LinkedIn](#)
+- **Gustavo Henrique Dias Preto** - [GitHub](#) | [LinkedIn](#)
+
 
 ## License
 
