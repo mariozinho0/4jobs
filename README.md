@@ -4,7 +4,7 @@
 
 ## Versioning
 
-We use [SemVer]() for versioning. For the versions available, see the [tags on this repository]().
+We use [SemVer](#) for versioning. For the versions available, see the [tags on this repository](#).
 
 
 ## Table of Contents
